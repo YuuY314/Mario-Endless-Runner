@@ -116,6 +116,12 @@ a:hover {
     animation: clouds-animation 10s linear infinite;
 }
 
+.score-label {
+    padding: 20px;
+    z-index: 100;
+    position: absolute;
+}
+
 .blur {
     filter: blur(10px);
 }
